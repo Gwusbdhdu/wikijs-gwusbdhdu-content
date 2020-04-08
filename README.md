@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2020-04-07T19:30:55.225Z
+date: 2020-04-08T06:49:27.936Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ This is the knowledge dump for Gwusbdhdu Salon.
 
 ## Contributing
 
-Content is automatically two-way synchronized with [a Github repository](https://github.com/Gwusbdhdu/wikijs-gwusbdhdu-content).
+Content is automatically two-way synchronized with [a Github repository](https://github.com/gwusbdhdu/wikijs-gwusbdhdu-content).
 
 Feel free to contribute using this UI or by submitting a pull request to the repo.
 
