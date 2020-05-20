@@ -2,14 +2,14 @@
 title: Bash
 description: default terminal scripting language
 published: true
-date: 2020-05-20T04:20:48.520Z
+date: 2020-05-20T04:32:08.576Z
 tags: 
 ---
 
 ## Basic Commands
 
 Intro to Bash in Asciinema: https://asciinema.org/a/101528
-
+```
 cd
 cd -
 
@@ -99,10 +99,10 @@ done
 for i in {1..10}; do echo "$i"; done
 
 while true; do free -h; sleep 5; done
-
+```
 
 ## Permissions Management
-
+```
 ls -lA
 chmod 600 $MYFILE
 chmod a+x $MYFILE
@@ -115,3 +115,4 @@ lsusb -v
 groups
 groupadd $MYGROUP
 usermod $MYUISER -aG $MYGROUP
+```
