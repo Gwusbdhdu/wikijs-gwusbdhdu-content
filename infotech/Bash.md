@@ -2,7 +2,7 @@
 title: Bash
 description: default terminal scripting language
 published: true
-date: 2020-05-20T04:11:04.335Z
+date: 2020-05-20T04:20:48.520Z
 tags: 
 ---
 
